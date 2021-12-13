@@ -10,13 +10,13 @@
 <body class="body">
 <div class="wrapper">
     <div class="header">
-        <h1><i class="far fa-clipboard"></i>Moje notatki</h1>
+        <h1><i class="far fa-clipboard"></i> Produkty</h1>
     </div>
 
     <div class="container">
         <div class="menu">
             <ul>
-                <li><a href="/momentaryName">Strona główna</a></li>
+                <li><a href="?action=create">Create</a></li>
                 <li><a href="?action=list">Lista</a></li>
             </ul>
         </div>
@@ -27,7 +27,7 @@
     </div>
 
     <div class="footer">
-        <p>Notatki - projekt w kursie PHP</p>
+        <p>Projekt XXX</p>
     </div>
 </div>
 </body>
